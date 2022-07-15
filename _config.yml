@@ -6,8 +6,8 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Portfolio
-description: Yevhen Goncharov's Data Science and Machine Learning Portfolio
+title: Yevhen Goncharov's Data Science and Machine Learning Portfolio
+description: 
 github_username: yevhengoncharov
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "My-Portfolio"
@@ -47,7 +47,7 @@ minima:
 use_math: 
 
 # Set this to true to display the summary of your blog post under your title on the Home page.
-show_description: true
+show_description: false
 
 # Set this to true to display image previews on home page, if they exist
 show_image: true
